@@ -34,6 +34,16 @@
       "id": "7",
       "name": "Sweden",
       "capital": "Stockholm"
+    },
+    {
+      "id": "8",
+      "name": "Singapore",
+      "capital": "Singapore"
+    },
+    {
+      "id": "9",
+      "name": "Malaysia",
+      "capital": "Malaysiaxxx"
     }
   ]
 }
